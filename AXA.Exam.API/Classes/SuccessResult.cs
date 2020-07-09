@@ -1,0 +1,6 @@
+﻿namespace AXA.Exam.API.Classes {
+    public class SuccessResult {
+        public int Result { get; set; }
+        public string Message { get; set; }
+    }
+}
